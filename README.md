@@ -1,5 +1,8 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/sugito"><img src="https://api.daily.dev/devcards/a57c1c93b4124e23a7673fa2c102e53a.png?r=09w" width="400" alt="alansugito's Dev Card"/></a>
+Hello my name is Alan Sugito, i'm a Computer Science student at Bina Sarana Informatika University
+i'm currently learning Web Developmet especially the Backend part
 
-[![myPortofolio](https://google.com)
+I use ``Javascript`` for my daily basis such as ``Vuejs``, ``React.js``, ``Node js``, ``Express`` etc.
+
+I'm interested about ``Cloud Computing``, ``Software architecture``, and ``IoT``
